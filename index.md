@@ -1,6 +1,6 @@
 # Personal Page
 
-![Image of me](selfie.jpg)
+![Image of me](selfie.JPG)
 
 ## About Me
 
